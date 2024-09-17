@@ -1,5 +1,6 @@
 body {
     background-color: rgb(50, 112, 204);  
+    margin: 0px
 }
 
 p {color: rgba(0, 20, 20, 0.918);{
@@ -12,9 +13,12 @@ p {color: rgba(0, 20, 20, 0.918);{
 
 }
 ]blue {
-    width: 60;
+    width: 60;.
 
 }
 header {
-    border: solid 2px white;
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
