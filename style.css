@@ -1,24 +1,26 @@
 body {
-    background-color: rgb(50, 112, 204);  
+    background-color: rgba(153, 50, 204, 0.817);
     margin: 0px
 }
 
-p {color: rgba(0, 20, 20, 0.918);{
-
+nav a {
+   margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    text-decoration: none;
+    color:rgba(204, 168, 238, 0.192)
+}
+h1 {
+    color: darkturquoise;
+}
+.unicornio {
+    font-style: italic;
 }
 
-.brilho {
-
-    font-style:italic;
-
+.img1 {
+    width: 50%;
 }
-]blue {
-    width: 60%;.
 
-}
-header {
-    border-bottom: solid 2px white;
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
+.centro {
+    text-align: center;
 }
