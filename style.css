@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(50, 181, 204, 0.817);
+    background-color: black;
     margin: 0px
 }
 
@@ -8,13 +8,12 @@ nav a {
     padding: 2px;
     font-size: 20px;
     text-decoration: none;
-    color:rgba(204, 168, 238, 0.192)
+    color: antiquewhite;
     display: flex;
     justify-content: center;
-
 }
 h1 {
-    color: darkturquoise;
+    color:  darkturquoi;
     padding-top: 5%;
 }
 .unicornio {
@@ -22,7 +21,7 @@ h1 {
 }
 
 .img1 {
-    width: 50%;
+    width: 60%;
 }
 
 .centro {
